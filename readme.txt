@@ -17,7 +17,7 @@ Simple way to create auto tags from post/page title.
 
 == Installation ==
 
-1.  Upload SimpleAutoTag folder to plugins folder.
+1.  Upload simple-auto-tag folder to plugins folder.
 
 2.  Go to Plugins menu and active.
 
