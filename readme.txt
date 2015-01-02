@@ -7,6 +7,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Changelog ==
+
 = 1.0.2 =
 * Add new function
 = 1.0.1 =
@@ -15,6 +16,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 * First Release
 
 == Description ==
+
 Simple way to create auto tags from post/page title.
  
 
