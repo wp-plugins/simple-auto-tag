@@ -1,11 +1,11 @@
 <?php
 	/*
 		Plugin Name: Simple Auto Tag
-		Plugin URI: https://github.com/jzvikas/Auto-Tag
+		Plugin URI: 
 		Description: Simple way to create auto tags from post/page title.
-		Version: 1.0.2
+		Version: 1.0.3
 		Author: djjmz
-		Author URI: https://github.com/jzvikas/Auto-Tag
+		Author URI: 
 	*/
 	function SaveTitleAsTag($post_ID) {
 		$gpt = get_post($post_ID);
