@@ -8,6 +8,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Changelog ==
 
+= 1.0.3 =
+* Add bug fix
 = 1.0.2 =
 * Add new function
 = 1.0.1 =
