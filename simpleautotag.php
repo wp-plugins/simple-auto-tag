@@ -3,7 +3,7 @@
 		Plugin Name: Simple Auto Tag
 		Plugin URI: 
 		Description: Simple way to create auto tags from post/page title.
-		Version: 1.0.3
+		Version: 1.0.3.1
 		Author: djjmz
 		Author URI: 
 	*/
