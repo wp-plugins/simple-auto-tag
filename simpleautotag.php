@@ -3,7 +3,7 @@
 		Plugin Name: Simple Auto Tag
 		Plugin URI: 
 		Description: Simple way to create auto tags from post/page title.
-		Version: 1.0.3.1
+		Version: 1.1
 		Author: djjmz
 		Author URI: 
 	*/
@@ -39,7 +39,7 @@
 	add_action('save_post', 'SaveTitleAsTag');
 	add_action('admin_menu', 'sat_add_menu');
 	function sat_add_menu() {
-		add_menu_page('S-A-T Settings', 'S-A-T Settings', 'manage_options', 'sat_settings', 'sat_settings',plugins_url('simple-auto-tag/img/logo.jpg'), 6);
+		add_options_page('S-A-T Settings', 'S-A-T Settings', 'manage_options', 'sat_settings', 'sat_settings');
 	}
 	function sat_settings() {
 		$message = '';

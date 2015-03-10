@@ -9,6 +9,8 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WYDR4
 
 == Changelog ==
 
+= 1.1 =
+* Small code update
 = 1.0.3 =
 * Add bug fix
 = 1.0.2 =
